@@ -1,0 +1,19 @@
+{
+  "name": "autoActive",
+  "main": "autoActive.min.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Karl-Gustav/autoActive",
+  "authors": [
+    "Karl Gustav http://github.com/Karl-Gustav"
+  ],
+  "description": "autoActive module/directive for angular.js that manages the \"active\" class assignment for the nav bar.",
+  "keywords": [
+    "angularjs",
+    "active"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ]
+}
